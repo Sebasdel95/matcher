@@ -17,7 +17,7 @@ Install node.js any version.
 
 #### Inputs
 The inputs with .txt format must be within the same folder of the matcher.js script.
-The name of the input must be assigned to 'const file' in the first line of matcher.js
+The name of the input (.txt file) must be assigned to 'const file' in the first line of matcher.js
 
 #### Outputs
 The output will be shown in the terminal when the script is executed like: node .\matcher.js
