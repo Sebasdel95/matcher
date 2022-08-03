@@ -19,4 +19,4 @@ Install node.js any version.
 The inputs with .txt format must be within the same folder of the matcher.js script.
 
 #### Outputs
-The output will be shown in the console.
+The output will be shown in the terminal when the script is executed like: node .\matcher.js
